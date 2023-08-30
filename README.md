@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JennieC026&layout=compact)
 
-##About me
+## About me
 
 👋 Hi there! I'm Jennie Chen.
 
